@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    text-decoration: none;
+    background-color: purple;
+    background-image: url(https://th.bing.com/th/id/R.caae11bfe7613273a679320283057e81?rik=C%2bqJINL2mV9yeQ&riu=http%3a%2f%2fwww.hdwallpaper.nu%2fwp-content%2fuploads%2f2015%2f02%2fsci_fi_science_fiction_galaxy_stars_nebula_color_dust_space_universe_for_desktop.jpg&ehk=C0Bp7qFc3P%2bAk%2bDFMns236oEuawLkQmjHu9bmzEC0eM%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: springgreen;
+    font-size: large;
+    font-weight: 900;
+    font-style: bold;
+
+}
+button{
+    background-color: skyblue   ;
+    border-radius: 50px;
+    border: black;
+    width: 300px;
+   height: 40px;
+    cursor: pointer;
+margin-bottom: 400px;
+font-size: 20px;
+font-weight: 800;
+}
+    
